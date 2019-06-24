@@ -51,5 +51,5 @@ use the most freq. words as a bag of word then create feacture vector usingt thi
           0       0.62      0.46      0.53       947
           1       0.68      0.60      0.64       707
 
-avg / total       0.74      0.75      0.74      4392
+avg / total ,      0.74  ,    0.75  ,    0.74  ,    4392
 
